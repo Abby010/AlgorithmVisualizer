@@ -2,7 +2,7 @@
   "name": "AlgorithmVisualizer",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://<username>.github.io/<repository-name>",
+  "homepage": "http://Abby010.github.io/AlgorithmVisualizer",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
